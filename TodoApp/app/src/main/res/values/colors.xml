@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorPrimary1">#6200EE</color>
+
+    <color name="DeepPurpleA700">#6200EA</color>
+    <color name="DeepPurple900">#311B92</color>
+
+
+    <color name="white">#FFFF</color>
+    <color name="black">#000000</color>
+
+
+    <color name="Yellow50">#FFFDE7</color>
+    <color name="Yellow100">#FFF9C4</color>
+
+    <color name="Amber50">#FFF8E1</color>
+
+    <color name="orange50">#FFF3E0</color>
+
+    <color name="Gray50">#FAFAFA</color>
+    <color name="Gray100">#F5F5F5</color>
+    <color name="Gray200">#EEEEEE</color>
+    <color name="Gray300">#E0E0E0</color>
+    <color name="Gray400">#BDBDBD</color>
+    <color name="Gray500">#9E9E9E</color>
+    <color name="Gray600">#757575</color>
+    <color name="Gray700">#616161</color>
+    <color name="Gray800">#424242</color>
+    <color name="Gray900">#212121</color>
+
+    <color name="Blue900">#0D47A1</color>
+
+    <color name="Indigo900">#1A237E</color>
+</resources>

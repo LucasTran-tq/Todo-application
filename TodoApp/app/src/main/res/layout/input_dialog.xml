@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/textView_title_HomeActivity"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="what do you wanna do"
+        android:textSize="20dp"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:fontFamily="@font/nunito_semi_bold"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"/>
+
+    <TextView
+        android:id="@+id/tv_showdate"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="When is the Deadline? Click me"
+        android:textSize="20sp"
+        android:fontFamily="@font/nunito_semi_bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:layout_margin="10dp"/>
+
+
+    <Button
+        android:id="@+id/btn_Save_HomeActivity"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Save"
+        android:backgroundTint="@color/Gray500"/>
+
+</LinearLayout>
